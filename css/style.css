@@ -240,4 +240,7 @@
     width: 15%;
 
   }
+  #logo:hover{
+    opacity: 0.3;
+  }
   
