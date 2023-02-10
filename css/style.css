@@ -124,6 +124,12 @@
     -webkit-border-radius: 0 0  5px 5px;
     border-radius: 0 0  5px 5px;
   }
+  .link #shsjdhduf {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 10%;
+  }
   .link a {
     font-weight: bold;
     background: #f7f8f1;
@@ -226,5 +232,12 @@
       opacity: 0;
       transform: translateX(-20px);
     }
+  }
+  #logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 15%;
+
   }
   
